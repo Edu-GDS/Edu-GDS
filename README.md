@@ -1,4 +1,4 @@
-Olá! Me chamado Eduardo. Seja bem-vindo ao meu perfil no GitHub
+Olá! Me chamo Eduardo. Seja bem-vindo ao meu perfil no GitHub
 
 - 🔭 Trabalho atualmente com BI (Business Intelligence)
 - 🌱 Atualmente estudo Java, Javascript, ReactJS e NodeJS
