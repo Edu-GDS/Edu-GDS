@@ -25,3 +25,4 @@ Olá! Me chamo Eduardo. Seja bem-vindo ao meu perfil no GitHub
   <a href = "mailto:eduardogomessantos690@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+![snake gif](https://github.com/Edu-GDS/Edu-GDS/blob/output/github-contribution-grid-snake.svg)
