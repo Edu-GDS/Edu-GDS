@@ -1,7 +1,7 @@
 Olá! Me chamo Eduardo. Seja bem-vindo ao meu perfil no GitHub
 
 - 🔭 Trabalho atualmente com BI (Business Intelligence)
-- 🌱 Atualmente estudo Java, Javascript, ReactJS e NodeJS
+- 🌱 Atualmente estudo Java, Javascript, ReactJS, NodeJS e API's REST
 - 📫 Entre em contato comigo: eduardogomessantos690@gmail.com
 
 <a href="https://github.com/Edu-GDS/">
